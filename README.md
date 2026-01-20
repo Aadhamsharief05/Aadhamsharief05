@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/aadhamsharief05?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
   </a>
-  <a href="https://www.codechef.com/users/kit27csbs01" target="_blank">
+  <a href="https://www.codechef.com/users/kit27csbs01">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" width="48" height="48" style="filter: invert(40%) sepia(80%) saturate(500%) hue-rotate(20deg)"/>
   </a>
   <a href="https://www.hackerrank.com/profile/kit27_csbs01" target="_blank">
@@ -67,7 +67,7 @@
 
 <div align="center">
   
-✨ "Code is like humor. When you have to explain it, it’s bad." ✨  
+✨ "Consistency X Action" ✨  
 *– Aadham Sharief A*
 
 </div>
